@@ -1,2 +1,5 @@
-hello world
-mazertyu
+lineyka
+
+dont
+crash
+fails can
